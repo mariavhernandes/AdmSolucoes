@@ -1,8 +1,5 @@
 | [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
 |---|---|
-<p align="center">
-  <img width="300" height="auto" align="center" alt="logo" src="https://github.com/user-attachments/assets/96e38e6e-eb80-4c46-96ec-adf56623abda" />
-</p>
 
 # ADM Soluções - Appointment Management System
 
