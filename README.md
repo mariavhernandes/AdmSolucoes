@@ -1,7 +1,7 @@
 | [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
 |---|---|
 <p align="center">
-  <img width="1080" height="873" alt="logo" src="https://github.com/user-attachments/assets/96e38e6e-eb80-4c46-96ec-adf56623abda" />
+  <img width="300" height="auto" align="center" alt="logo" src="https://github.com/user-attachments/assets/96e38e6e-eb80-4c46-96ec-adf56623abda" />
 </p>
 
 # ADM Soluções - Appointment Management System
@@ -25,8 +25,7 @@ The project was designed to replace manual management and inefficient communicat
 
 ## 📸 Screenshots
 <p align="center">
-  <img width="250" height="auto" src="YOUR_IMAGE_URL_HERE" />
-  <img width="1440" height="1024" alt="login" src="https://github.com/user-attachments/assets/37de207f-d5b8-42f4-923d-57ecbc2c9972" />
-  <img width="1440" height="1024" alt="servicos" src="https://github.com/user-attachments/assets/01169f3e-b107-4965-a728-5c026923b1b3" />
-  <img width="1440" height="1024" alt="agenda" src="https://github.com/user-attachments/assets/2905dee5-a4f1-47fc-a047-7faa5a553c53" />
+  <img width="250" height="auto" alt="login" src="https://github.com/user-attachments/assets/37de207f-d5b8-42f4-923d-57ecbc2c9972" />
+  <img width="250" height="auto" alt="servicos" src="https://github.com/user-attachments/assets/01169f3e-b107-4965-a728-5c026923b1b3" />
+  <img width="250" height="auto" alt="agenda" src="https://github.com/user-attachments/assets/2905dee5-a4f1-47fc-a047-7faa5a553c53" />
 </p>
