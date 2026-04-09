@@ -1,4 +1,4 @@
-| [Português 🇧🇷](README-pt.md) | [English 🇺🇸](README.md) |
+| [Português 🇧🇷](README.md) | [English 🇺🇸](README-en.md) |
 |---|---|
 
 # ADM Soluções - Sistema de Gestão de Agendamentos
